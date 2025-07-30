@@ -1,0 +1,3 @@
+[submodule "CommunityPost"]
+	path = CommunityPost
+	url = https://github.com/NodStan/CommunityPost.git
