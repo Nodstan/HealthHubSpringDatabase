@@ -1,3 +1,15 @@
 [submodule "CommunityPost"]
 	path = CommunityPost
 	url = https://github.com/NodStan/CommunityPost.git
+[submodule "EmergencyGuide"]
+	path = EmergencyGuide
+	url = https://github.com/NodStan/EmergencyGuide.git
+[submodule "HealthhubUser"]
+	path = HealthhubUser
+	url = https://github.com/NodStan/HealthhubUser.git
+[submodule "NutritionGuide"]
+	path = NutritionGuide
+	url = https://github.com/NodStan/NutritionGuide.git
+[submodule "SearchCondition"]
+	path = SearchCondition
+	url = https://github.com/NodStan/SearchCondition.git
